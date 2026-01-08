@@ -73,3 +73,50 @@ ensure bookdev
 Restart server or resource
 
 restart bookdev
+
+
+🎮 Usage
+Action	Key
+Open / Close UI	F7
+Close UI	ESC
+🛠 Development & Debugging
+
+Lua → JS: SendNUIMessage
+
+JS → Lua: RegisterNUICallback
+
+Open NUI DevTools:
+
+Press F8
+
+Run:
+
+ui_devtools
+
+🗺 Roadmap
+
+ Multi-page UI system
+
+ Responsive scaling for all resolutions
+
+ UI state management
+
+ Framework support (ESX / QBCore)
+
+ Production-ready UI template
+
+👤 Author
+
+Book (SivakornCR7)
+Full-stack Developer · FiveM Developer
+
+📄 License
+
+This project is licensed under the MIT License
+Feel free to use, modify, and distribute.
+
+<div align="center">
+
+⭐ If you find this useful, consider giving it a star!
+
+</div> ```
