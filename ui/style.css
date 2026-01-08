@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: 'Sarabun', sans-serif;
+    background: transparent;
+}
+
+#app {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0,0,0,0.85);
+    padding: 30px;
+    border-radius: 12px;
+    color: white;
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
